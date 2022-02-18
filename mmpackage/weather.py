@@ -31,7 +31,7 @@ def weather(time):
     print(f"In Bialystok at {time} we have {meteo['hourly']['soil_temperature_0cm'][time]}°C")
     print(f"Atmospheric pressure: {meteo['hourly']['pressure_msl'][time]} hPa")
 
-    return meteo["hourly"]["soil_temperature_0cm"][time] < 50
+    return meteo["hourly"]["soil_temperature_0cm"][time]
     # print(json.dumps(meteo, indent=4))
 
 if __name__ == '__main__':
