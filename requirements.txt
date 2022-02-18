@@ -1,1 +1,1 @@
-openmeteo-py==0.0.1,
+openmeteo-py==0.0.1
