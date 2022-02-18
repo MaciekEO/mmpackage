@@ -1,1 +1,1 @@
-from mmpackage.file import greetings
+from mmpackage.weather import greetings
