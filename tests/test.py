@@ -11,7 +11,7 @@ class TestWeather(unittest.TestCase):
 
     
     def test_weather(self):
-        result = weather()
+        result = weather(0)
         self.assertTrue(result>-50)
         self.assertTrue(result<50)
 
