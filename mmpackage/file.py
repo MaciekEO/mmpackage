@@ -1,3 +1,3 @@
 def greetings():
     print("Hello")
-    return "Hello"
+    return "Hello2"   
