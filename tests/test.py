@@ -2,6 +2,7 @@ import unittest
 
 from mmpackage.weather import get_location
 from mmpackage.weather import weather
+from mmpackage.weather import get_meteo_data
 
 class TestWeather(unittest.TestCase):
     def test_location(self):
