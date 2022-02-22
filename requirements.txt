@@ -1,0 +1,4 @@
+openmeteo-py==0.0.1
+numpy>=1.19.5
+matplotlib>=3.2.2
+seaborn
