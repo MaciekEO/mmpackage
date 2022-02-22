@@ -5,7 +5,7 @@ Welcome to mmpackage documentation!
 This librry is using https://open-meteo.com/en/ API.
 There are many options to see how weather look like.
 
-Check out the :doc:`install` section for further information how to install and use it.
+Check out the :doc:`installation` section for further information how to install and use it.
 
 Note
 ----------
