@@ -2,7 +2,7 @@ from openmeteo_py import Hourly,Options,OWmanager
 import datetime
 import numpy as np
 import matplotlib.pyplot as plt
-import seaborn
+# import seaborn
 import json
 
 def greetings():
