@@ -39,6 +39,9 @@ def get_meteo_data(latitude, longitude):
         return mgr.get_data()
 
 def weather(time, cities):
+    if time == None:
+        time = datetime.datetime.now()
+        
     fig, ax = plt.subplots()
 
     for city in cities:
