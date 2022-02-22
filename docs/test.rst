@@ -2,6 +2,7 @@ TESTS
 =====
 
 This library has tests to help us with possible errors.
+It has also made github actions for more detailed checking.
 
 How to use them
 -----
