@@ -13,3 +13,6 @@ Note
 ----------
 
    This project is under active development and it still in progress.
+   
+   
+![](https://raw.githubusercontent.com/MaciekEO/mmpackage/main/media/Graph.png)
