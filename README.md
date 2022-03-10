@@ -8,7 +8,7 @@ Welcome to mmpackage!
 This library is using https://open-meteo.com/en/ API.
 There are many options to see how weather look like.
 
-Check out folder ``docs``  for further information how to install and use it.
+Check out folder ``docs``  or https://mmpackage.readthedocs.io/en/latest/index.html for further information how to install and use it.
 In folder ``media`` you can see how results looks like.
 
 Note
